@@ -1,0 +1,3 @@
+[submodule "css-nojs"]
+	path = css-nojs
+	url = git@github.com:wzites/css-nojs.git
